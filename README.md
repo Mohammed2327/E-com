@@ -9,15 +9,18 @@ Thymeleaf: For rendering the frontend views
 
 JPA/Hibernate: For database interactions
 
-Jackson: For JSON processing
+Database: MySQL Workbench
 
 HTML/CSS/JavaScript: For frontend development
 
 
 ### Features
 View a list of products
+
 Add products to the shopping cart
+
 View and manage items in the shopping cart
+
 Checkout and view order receipt
 
 ### To Run this Project in your system
