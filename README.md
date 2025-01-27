@@ -4,10 +4,15 @@ This is a simple E-Commerce application built using Spring Boot and Thymeleaf. T
 
 ### Technologies Used
 Spring Boot: For building the backend RESTful API
+
 Thymeleaf: For rendering the frontend views
+
 JPA/Hibernate: For database interactions
+
 Jackson: For JSON processing
+
 HTML/CSS/JavaScript: For frontend development
+
 
 ### Features
 View a list of products
